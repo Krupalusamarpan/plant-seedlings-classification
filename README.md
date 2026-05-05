@@ -137,6 +137,10 @@ Explanation:
 
 
 
+
+
+
+
 <img width="1024" height="1536" alt="Hovor queome" src="https://github.com/user-attachments/assets/37067208-bbd2-402c-9b82-37a43d3675d2" />
 
  
